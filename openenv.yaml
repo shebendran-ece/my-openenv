@@ -1,0 +1,6 @@
+name: my-openenv
+description: Real-world task simulation environment
+tasks:
+  - email classification
+  - data cleaning
+  - customer support
