@@ -1,4 +1,7 @@
+import time
 import os
+
+print("App started...")
 
 def run():
     token = os.getenv("HF_TOKEN")
@@ -7,3 +10,8 @@ def run():
 
 if __name__ == "__main__":
     run()
+
+    # Keep container alive
+    while True:
+        print("Running...")
+        time.sleep(5)

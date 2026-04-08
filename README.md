@@ -1,3 +1,23 @@
+\---
+
+title: my-openenv
+
+emoji: 🚀
+
+colorFrom: blue
+
+colorTo: green
+
+sdk: docker
+
+app\_file: inference.py
+
+pinned: false
+
+\---
+
+
+
 \# My OpenEnv Project
 
 
