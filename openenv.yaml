@@ -1,6 +1,4 @@
 name: my-openenv
-description: Real-world task simulation environment
-tasks:
-  - email classification
-  - data cleaning
-  - customer support
+version: 0.1.0
+description: Simple OpenEnv environment
+entrypoint: server.app:app
